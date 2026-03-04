@@ -12,7 +12,7 @@
 
 ```yaml
 Name: Karan Aawla
-Username: Karanaawla07
+Username: karanaawla1
 Role: MERN Stack Developer
 Learning: Java Full Stack Development
 Focus: DSA + Backend Systems
