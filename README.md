@@ -106,7 +106,7 @@ public class KaranAawla {
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." — John Johnson
+### 💡 "First, solve the problem. Then, write the code." 
 
 ⭐ **If you like my work, consider giving my repos a star!** ⭐
 
