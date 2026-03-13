@@ -1,27 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=🤖+SmartAssist;AI+Chatbot+System;Built+with+Spring+Boot;Powered+by+Groq+LLM" alt="Typing SVG" />
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-4.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-LLaMA%203-6E40C9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deployed-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
-</p>
-
-<p>
-  <a href="https://smartassist-ai-chatbot.onrender.com">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-Click Here-A855F7?style=for-the-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/karanaawla1/SmartAssist-AI-Chatbot">
-    <img src="https://img.shields.io/badge/💻 GitHub-Source Code-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Karan+Aawla+👋;Java+Backend+Developer;Building+cool+stuff+with+Spring+Boot+☕;Open+To+Work+🚀" alt="Typing SVG" />
 
 <br/>
 
@@ -31,32 +10,18 @@
 
 <br/>
 
-## 🧠 What is SmartAssist?
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-**SmartAssist** is a production-ready AI-powered chatbot system built from scratch using **Java & Spring Boot**. It integrates with the **Groq LLM API (LLaMA 3)** to generate intelligent, real-time responses to any question a user asks.
+### 👨‍💻 About Me
 
-Every conversation is stored in a database with full session history support. A clean, animated frontend chat UI is served directly from the Spring Boot backend — no separate frontend server needed.
-
-> Think of it as a lightweight ChatGPT — designed and built entirely by a Java backend developer. 🚀
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## ✨ Features
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-- 🤖 &nbsp; **AI-Powered Chat** — Real-time answers via Groq LLaMA 3
-- 💬 &nbsp; **Conversation History** — All chats stored with session ID & timestamp
-- 🌐 &nbsp; **Integrated Frontend** — Animated chat UI built into Spring Boot
-- 🏗️ &nbsp; **Clean MVC Architecture** — Controller → Service → Repository
-- ⚠️ &nbsp; **Global Exception Handling** — Clean, structured error responses
-- 🔐 &nbsp; **Secure Config** — API keys via environment variables, never hardcoded
-- 🐳 &nbsp; **Dockerized** — Containerized for easy deployment anywhere
-- ☁️ &nbsp; **Cloud Deployed** — Live on Render, auto-deploys on every push
+- 🎓 B.Tech in **Electronics & Communication Engineering** (2025)
+- 💼 Fresher **Java Backend Developer** — actively looking for opportunities
+- 🏙️ Based in **Hyderabad, India**
+- ☕ I love building real-world backend systems with **Java & Spring Boot**
+- 🤖 Recently built & deployed an **AI Chatbot** powered by Groq LLaMA 3
+- 🐳 Certified in **Docker Foundations** & **Microsoft Azure AI Essentials**
+- 💬 Ask me about **Spring Boot, REST APIs, Java, Hibernate**
+- ⚡ Fun fact — I debug faster with chai ☕ in hand
 
 <br/>
 <br/>
@@ -65,23 +30,32 @@ Every conversation is stored in a database with full session history support. A 
 
 <br/>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-| Layer | Technology | Purpose |
-|:---:|:---:|:---:|
-| 💻 Language | Java 17 | Core backend language |
-| ⚙️ Framework | Spring Boot 4.0 | Application framework |
-| 🗄️ ORM | Spring Data JPA + Hibernate | Database interaction |
-| 💾 Database | H2 (File Mode) | Persistent chat storage |
-| 🤖 AI | Groq API — LLaMA 3 | Intelligent responses |
-| 🌐 Frontend | HTML + CSS + JavaScript | Animated chat UI |
-| 🔨 Build Tool | Maven | Dependency management |
-| 🐳 Container | Docker | Deployment packaging |
-| ☁️ Cloud | Render | Hosting & auto-deploy |
-| 🧪 Testing | Postman | API validation |
-| 📁 Version Control | Git + GitHub | Source management |
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2%20Database-0000FF?style=for-the-badge&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -91,68 +65,43 @@ Every conversation is stored in a database with full session history support. A 
 
 <br/>
 
-## 🏗️ System Architecture
+### 🚀 Projects
 
-```
-┌──────────────────────────────────────────────────┐
-│               Client (Browser)                    │
-│         https://smartassist-ai-chatbot.onrender.com│
-└─────────────────────┬────────────────────────────┘
-                      │  HTTP Request (JSON)
-                      ▼
-┌──────────────────────────────────────────────────┐
-│             ChatController.java                   │
-│          @RestController  /api/chat               │
-│    POST /api/chat  |  GET /api/chat/history/{id}  │
-└─────────────────────┬────────────────────────────┘
-                      │
-                      ▼
-┌──────────────────────────────────────────────────┐
-│              ChatService.java                     │
-│        Business Logic + Groq API Integration      │
-└────────────┬─────────────────────┬───────────────┘
-             │                     │
-             ▼                     ▼
-┌────────────────────┐   ┌─────────────────────────┐
-│  ChatRepository    │   │     Groq LLM API         │
-│  Spring Data JPA   │   │    LLaMA 3 Model         │
-└────────┬───────────┘   └─────────────────────────┘
-         │
-         ▼
-┌────────────────────┐
-│    H2 Database     │
-│   chat_messages    │
-│  (session history) │
-└────────────────────┘
-```
-
-<br/>
-
-### 📁 Project Structure
-
-```
-src/
-├── main/
-│   ├── java/com/smartassist/
-│   │   ├── SmartassistApplication.java         ← Entry point
-│   │   ├── controller/
-│   │   │   └── ChatController.java             ← REST endpoints
-│   │   ├── service/
-│   │   │   └── ChatService.java                ← Core logic + AI call
-│   │   ├── repository/
-│   │   │   └── ChatRepository.java             ← DB queries
-│   │   ├── model/
-│   │   │   └── ChatMessage.java                ← JPA entity
-│   │   ├── dto/
-│   │   │   ├── ChatRequest.java                ← Input DTO
-│   │   │   └── ChatResponse.java               ← Output DTO
-│   │   └── exception/
-│   │       └── GlobalExceptionHandler.java     ← Error handling
-│   └── resources/
-│       ├── static/
-│       │   └── index.html                      ← Chat UI (Frontend)
-│       └── application.properties              ← Config
-```
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 SmartAssist — AI Chatbot</h3>
+      <p align="center">
+        AI-powered chatbot backend built with Spring Boot & Groq LLM (LLaMA 3). Features real-time chat, conversation history, animated frontend UI, and full cloud deployment.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-LLaMA3-6E40C9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://smartassist-ai-chatbot.onrender.com">🌐 Live Demo</a> &nbsp;|&nbsp;
+        <a href="https://github.com/karanaawla1/SmartAssist-AI-Chatbot">💻 GitHub</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎫 SmartDesk — Helpdesk System</h3>
+      <p align="center">
+        A full-featured Helpdesk Ticketing System with JWT-based authentication, RBAC, ticket lifecycle management, and secure REST APIs built with Spring Security.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/karanaawla1">💻 GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -160,151 +109,37 @@ src/
 
 <br/>
 
-## 📡 API Reference
-
-### `POST /api/chat` — Send a Message
-
-**Request Body**
-```json
-{
-  "sessionId": "user123",
-  "message": "What is Spring Boot?"
-}
-```
-
-**Response**
-```json
-{
-  "sessionId": "user123",
-  "reply": "Spring Boot is an open-source Java framework that simplifies building and deploying applications...",
-  "timestamp": "2026-03-13T06:44:51.068914700"
-}
-```
-
----
-
-### `GET /api/chat/history/{sessionId}` — Get Chat History
-
-**Response**
-```json
-[
-  {
-    "id": 1,
-    "sessionId": "user123",
-    "userMessage": "What is Spring Boot?",
-    "botResponse": "Spring Boot is an open-source Java framework...",
-    "timestamp": "2026-03-13T06:44:51"
-  }
-]
-```
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Java 17+
-- Maven 3.6+
-- Groq API Key — [Get it free here](https://console.groq.com)
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/karanaawla1/SmartAssist-AI-Chatbot.git
-cd SmartAssist-AI-Chatbot
-```
-
-### 2. Configure Environment
-Create `src/main/resources/application.properties`:
-```properties
-spring.application.name=smartassist
-
-spring.datasource.url=jdbc:h2:file:./smartassist-db
-spring.datasource.driver-class-name=org.h2.Driver
-spring.datasource.username=sa
-spring.datasource.password=
-
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.h2.console.enabled=true
-
-GROQ_API_KEY=YOUR_GROQ_API_KEY_HERE
-GROQ_API_URL=https://api.groq.com/openai/v1/chat/completions
-```
-
-### 3. Run the Application
-```bash
-./mvnw spring-boot:run
-```
-
-### 4. Open in Browser
-```
-http://localhost:8080
-```
-
-<br/>
-
-## 🐳 Docker
-
-```bash
-# Build image
-docker build -t smartassist .
-
-# Run container
-docker run -p 8080:8080 \
-  -e GROQ_API_KEY=your_key_here \
-  smartassist
-```
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## 🔮 Future Improvements
-
-- [ ] Switch to PostgreSQL for production
-- [ ] Add JWT-based user authentication
-- [ ] Implement multi-turn conversation memory
-- [ ] React frontend for richer UX
-- [ ] Rate limiting per session
-- [ ] Unit & Integration tests
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## 👨‍💻 Author
+### 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=Karan+Aawla;Java+Backend+Developer;Open+To+Work+🚀" alt="Author Typing SVG" />
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-6DB33F?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production%20DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![System Design](https://img.shields.io/badge/System-Design-A855F7?style=for-the-badge)
+
+</div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Aawla-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karanaawla)
 [![GitHub](https://img.shields.io/badge/GitHub-karanaawla1-181717?style=for-the-badge&logo=github)](https://github.com/karanaawla1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karanaawla)
+[![Live Project](https://img.shields.io/badge/🌐%20Live%20Project-SmartAssist-A855F7?style=for-the-badge)](https://smartassist-ai-chatbot.onrender.com)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
 <div align="center">
 
-### ⭐ If you found this helpful, please star the repository! ⭐
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-&nbsp;
-<img src="https://forthebadge.com/images/badges/made-with-java.svg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐;Let's+connect+and+build+something+cool!+🚀" alt="Footer Typing SVG" />
 
 </div>
