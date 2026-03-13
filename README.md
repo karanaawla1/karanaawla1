@@ -78,8 +78,7 @@ public class KaranAawla {
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech Used | 🔗 Link |
 |------------|----------------|--------------|---------|
-| Coming Soon... | REST API Project | Java, Spring Boot, MySQL | 🚧 |
-
+| 🤖 SmartAssist AI Chatbot | AI-powered chatbot with Spring Boot & Groq LLM | Java, Spring Boot, REST API, H2, Docker | [🔗 Live](https://smartassist-ai-chatbot.onrender.com) |
 ---
 
 ## 🎯 2025 Goals
