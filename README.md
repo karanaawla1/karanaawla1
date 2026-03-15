@@ -1,130 +1,114 @@
 <!-- ============================================================ -->
-<!--                  HEADER — VENOM BANNER                     -->
+<!--              HEADER — COLORFUL SLICE BANNER                 -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E94560,50:0f3460,100:533483&height=250&section=header&text=Karan%20Aawla&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=E94560&strokeWidth=2&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Docker%20%7C%20OpenShift&descSize=18&descAlignY=62&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B6B,25:FFE66D,50:4ECDC4,75:45B7D1,100:A855F7&height=200&section=header&text=Karan%20Aawla&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&fontAlign=70&desc=Java%20Backend%20Dev%20%7C%20Spring%20Boot%20%7C%20OpenShift%20%7C%20Deployed%20%26%20Dangerous%20%F0%9F%9A%80&descSize=14&descAlignY=70&descAlign=70&descColor=ffffff&rotate=13" width="100%"/>
 
-<!-- Typing Animation -->
+</div>
+
+<!-- ============================================================ -->
+<!--           TYPING + COLORFUL BADGES                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=600&color=FF6B6B&center=true&vCenter=true&multiline=false&random=true&width=700&lines=ECE+grad+who+touched+Java+%26+never+went+back+%F0%9F%98%AD;Building+things+since+2024...+deploying+since+yesterday+%F0%9F%98%85;My+code+works+on+MY+machine+%F0%9F%AB%A1;Spring+Boot+developer+by+day%2C+bug+fixer+by+night+%F0%9F%90%9B;404%3A+Unemployment+Not+Found+%F0%9F%9A%80;Localhost%3A+best+friend.+Production%3A+final+boss.+%F0%9F%8E%AE)](https://git.io/typing-svg)
+
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=700&color=E94560&center=true&vCenter=true&random=false&width=700&height=55&lines=Hey%2C+I%27m+Karan+Aawla!+%E2%9A%A1;Java+%2B+Spring+Boot+Developer+%E2%98%95;Docker+%7C+OpenShift+%7C+GitHub+Actions+%F0%9F%90%B3;JWT+Auth+%7C+Spring+Security+%7C+RBAC+%F0%9F%94%90;I+deploy+to+cloud%2C+not+localhost+%F0%9F%9A%80;Hyderabad+%E2%80%94+Actively+Looking+for+Work!+%F0%9F%93%8D)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Status Badges -->
-<img src="https://komarev.com/ghpvc/?username=karanaawla1&style=for-the-badge&color=E94560&label=PROFILE+VIEWS&abbreviated=true"/>
+<!-- Rainbow status badges -->
+<img src="https://img.shields.io/badge/☕_Runs_on-Coffee_%26_Java-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK_🟢-00C853?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🟢_STATUS-OPEN_TO_WORK-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LOCATION-HYDERABAD_IN-FF6F00?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📍_CITY-HYDERABAD_IN-FFE66D?style=for-the-badge&labelColor=1a1a2e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TARGET-ASE_|_BACKEND_DEV-533483?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=karanaawla1&style=for-the-badge&color=A855F7&label=STALKERS+👀"/>
 
 <br/><br/>
 
-<!-- CTA Links -->
+<!-- CTA Row -->
 <a href="https://linkedin.com/in/karanaawla">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>&nbsp;
 <a href="mailto:karanaawla1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Hire_Me_(Please)-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>&nbsp;
 <a href="https://smartassist-ai-chatbot.onrender.com">
-<img src="https://img.shields.io/badge/Live_Project-SmartAssist_Demo-E94560?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Demo-SmartAssist_Live-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
 </a>
 
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;`whoami`
-
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="190" alt="coding"/>
-
-```typescript
-const karan = {
-  name       : "Karan Aawla",
-  role       : "Java Backend Developer",
-  location   : "Hyderabad, India",
-  education  : "B.Tech ECE — LNCTS Bhopal (2025)",
-  training   : "Java Full Stack @ Ashok IT",
-  status     : "Open To Work — DM anytime!",
-
-  stack: {
-    language  : ["Java 17", "Python"],
-    framework : ["Spring Boot 3", "Spring Security", "Flask"],
-    database  : ["MySQL", "PostgreSQL", "H2"],
-    devops    : ["Docker", "OpenShift", "GitHub Actions", "Azure"],
-    tools     : ["Maven", "JWT", "Hibernate/JPA", "Postman"]
-  },
-
-  currentFocus : "Red Hat OpenShift + CI/CD Pipelines",
-  lookingFor   : ["ASE", "Java Backend Dev", "Backend Dev"],
-  cities       : ["Hyderabad preferred", "Pune", "Noida"],
-  funFact      : "ECE grad who fell in love with backends"
-};
-```
-
-<br/>
-
-> 🔥 Shipped a live AI chatbot — Groq LLaMA 3, JWT auth, Docker, deployed on cloud.<br/>
-> 🎯 Deploying REST API on **Red Hat OpenShift** with PostgreSQL + GitHub Actions CI/CD.<br/>
-> 💡 I write code that works in **production** — not just on localhost.
-
-<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;`tech --stack`
+<!-- ============================================================ -->
+<!--                   ABOUT ME — FUN LAYOUT                     -->
+<!-- ============================================================ -->
 
-<div align="center">
+## 👾 &nbsp; Who is this guy?
 
 <table>
 <tr>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60"/><br/><b>Java 17</b></td>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60"/><br/><b>Docker</b></td>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60"/><br/><b>MySQL</b></td>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60"/><br/><b>REST APIs</b></td>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/><br/><b>GitHub</b></td>
-<td align="center" width="110"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/><br/><b>Python</b></td>
+<td valign="top" width="55%">
+
+### `karan.json` 📄
+
+```json
+{
+  "name"    : "Karan Aawla",
+  "role"    : "Java Backend Developer",
+  "from"    : "Hyderabad, India 🇮🇳",
+  "degree"  : "B.Tech ECE (2025) — LNCTS Bhopal",
+  "status"  : "🟢 Open to work — literally DM me",
+  "mood"    : "☕ caffeinated and building",
+
+  "superpower"   : "Turning coffee into APIs",
+  "kryptonite"   : "CSS (don't judge me)",
+  "current_boss" : "Spring Boot + OpenShift",
+
+  "hobbies" : ["writing code", "debugging code",
+               "googling StackOverflow", "repeat"],
+
+  "life_goal" : "Ship code. Get hired. Repeat. 🚀"
+}
+```
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180" alt="coding cat"/>
+
+<br/>
+
+> 💀 **Backstory:**
+> ECE grad who opened
+> Java docs by accident
+> and never closed the tab.
+
+<br/>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="github"/>
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-**🔧 Backend & Framework**
+<!-- Fun fact boxes -->
+<div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,flask&theme=dark&perline=6)](https://skillicons.dev)
-
-**🗄️ Database & Testing**
-
-[![Skills](https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite,postman&theme=dark&perline=5)](https://skillicons.dev)
-
-**☁️ Cloud, DevOps & Version Control**
-
-[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure,git,github,linux&theme=dark&perline=7)](https://skillicons.dev)
-
-**🎨 Frontend (Basic)**
-
-[![Skills](https://skillicons.dev/icons?i=react,html,css,js,vscode&theme=dark&perline=5)](https://skillicons.dev)
-
-<br/>
-
-| Skill | Proficiency | Level |
-|-------|------------|-------|
-| Java + Spring Boot | ![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-E94560?style=flat-square&labelColor=0d1117) | 🔥 Strong |
-| Spring Security + JWT | ![](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-70%25-E94560?style=flat-square&labelColor=0d1117) | 💪 Good |
-| MySQL + Hibernate/JPA | ![](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-70%25-E94560?style=flat-square&labelColor=0d1117) | 💪 Good |
-| Docker | ![](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-65%25-FF6F00?style=flat-square&labelColor=0d1117) | ⚡ Growing |
-| GitHub Actions CI/CD | ![](https://img.shields.io/badge/▓▓▓▓▓░░░░░-55%25-FF6F00?style=flat-square&labelColor=0d1117) | ⚡ Growing |
-| OpenShift / Kubernetes | ![](https://img.shields.io/badge/▓▓▓▓░░░░░░-45%25-533483?style=flat-square&labelColor=0d1117) | 📚 Learning |
+| 🔥 Currently | 🧠 Learning | 🎯 Hunting | 😅 Confession |
+|:-----------:|:-----------:|:----------:|:-------------:|
+| Building on OpenShift | Microservices + K8s | Java Backend roles | Still Googling Java syntax |
+| Deploying to cloud ☁️ | System Design | Hyderabad 📍 first | localhost is my safe space |
 
 </div>
 
@@ -132,16 +116,79 @@ const karan = {
 
 ---
 
-## 🚀 &nbsp;`projects --featured`
+<!-- ============================================================ -->
+<!--              COLORFUL TECH STACK                            -->
+<!-- ============================================================ -->
+
+## 🛠️ &nbsp; My Arsenal of Chaos
 
 <div align="center">
 
-<a href="https://github.com/karanaawla1/SmartAssist-AI-Chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karanaawla1&repo=SmartAssist-AI-Chatbot&theme=tokyonight&hide_border=true&border_radius=14&title_color=E94560&icon_color=E94560&text_color=a8b2d8&bg_color=0d1117" height="140"/>
-</a>&nbsp;
-<a href="https://github.com/karanaawla1/SmartDesk-Helpdesk-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karanaawla1&repo=SmartDesk-Helpdesk-System&theme=tokyonight&hide_border=true&border_radius=14&title_color=E94560&icon_color=E94560&text_color=a8b2d8&bg_color=0d1117" height="140"/>
-</a>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" align="right" alt="coder"/>
+
+**⚡ The ones I use daily**
+
+[![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark&perline=4)](https://skillicons.dev)
+
+**🗄️ Data goes here**
+
+[![Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis&theme=dark&perline=4)](https://skillicons.dev)
+
+**🐳 Ship it!**
+
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure&theme=dark&perline=4)](https://skillicons.dev)
+
+**🔧 Tools I rely on**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark&perline=5)](https://skillicons.dev)
+
+**🎨 Frontend (I try my best 😭)**
+
+[![Skills](https://skillicons.dev/icons?i=react,html,css,js,python&theme=dark&perline=5)](https://skillicons.dev)
+
+<br/>
+
+<!-- Colorful tech stack animated icons -->
+<table>
+<tr>
+<td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/Java-FF6B6B?style=flat-square"/></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/Docker-45B7D1?style=flat-square"/></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/MySQL-4ECDC4?style=flat-square"/></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/REST_API-FFE66D?style=flat-square"/></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/Python-A855F7?style=flat-square"/></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Proficiency bars — colorful version -->
+
+| Skill | Vibe Check | Level |
+|:------|:----------:|:-----:|
+| Java + Spring Boot | `█████████░` 88% | 🔥 My baby |
+| Spring Security + JWT | `████████░░` 75% | 💪 Solid |
+| MySQL + Hibernate | `████████░░` 75% | 💪 Solid |
+| Docker | `███████░░░` 65% | ⚡ Getting there |
+| GitHub Actions CI/CD | `██████░░░░` 58% | ⚡ Growing |
+| OpenShift + K8s | `█████░░░░░` 47% | 📚 Currently learning |
+| CSS (lol) | `███░░░░░░░` 30% | 💀 Send help |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ============================================================ -->
+<!--              PROJECTS — COLORFUL CARDS                      -->
+<!-- ============================================================ -->
+
+## 🚀 &nbsp; Things I Actually Built
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="90" alt="rocket"/>
 
 </div>
 
@@ -150,116 +197,99 @@ const karan = {
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+
 <div align="center">
-
-### 🤖 SmartAssist — AI Chatbot
-
-![](https://img.shields.io/badge/LIVE-Render-46E3B7?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/AI-Groq_LLaMA3-FF6C37?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Auth-JWT-E94560?style=flat-square&labelColor=0d1117)
-
+<img src="https://img.shields.io/badge/PROJECT_01-🤖_SmartAssist-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
-AI chatbot with **Groq LLaMA 3** — real-time responses, conversation history, animated React UI, Spring Security, Dockerized & live on cloud.
+<br/>
 
-```
-📌 Real AI API integration (Groq)
-📌 Dockerized & cloud deployed
-📌 JWT secured endpoints
-```
+**AI Chatbot Backend** — powered by Groq LLaMA 3. Real-time AI responses, conversation history, animated React frontend, JWT security — **live on cloud.**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> 💬 *"It's basically me, but smarter and always available"*
+
+![](https://img.shields.io/badge/🟢_LIVE-46E3B7?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/AI-Groq_LLaMA3-FF6B6B?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Dockerized-2496ED?style=flat-square&logo=docker&labelColor=1a1a2e)
+
+`Java` `Spring Boot` `Groq API` `JWT` `Docker` `React` `H2`
 
 <p align="center">
-<a href="https://github.com/karanaawla1/SmartAssist-AI-Chatbot"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>&nbsp;
-<a href="https://smartassist-ai-chatbot.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-E94560?style=for-the-badge"/></a>
+<a href="https://github.com/karanaawla1/SmartAssist-AI-Chatbot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>&nbsp;
+<a href="https://smartassist-ai-chatbot.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge"/></a>
 </p>
+
 </td>
 <td width="50%" valign="top">
+
 <div align="center">
-
-### 🎫 SmartDesk — Helpdesk System
-
-![](https://img.shields.io/badge/COMPLETE-Production_Ready-533483?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Auth-JWT_+_RBAC-E94560?style=flat-square&labelColor=0d1117)
-
+<img src="https://img.shields.io/badge/PROJECT_02-🎫_SmartDesk-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
-Full ticketing backend with **JWT + RBAC**. Ticket lifecycle (Open → In Progress → Resolved → Closed), Admin/User roles, Spring Security.
+<br/>
 
-```
-📌 Enterprise security patterns
-📌 Complete ticket lifecycle
-📌 Role-based access control
-```
+**Helpdesk Ticketing System** — JWT + RBAC, full ticket lifecycle (Open → In Progress → Resolved → Closed), Spring Security for Admin & User roles.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+> 💬 *"Raise a ticket, or raise your hand — both work"*
+
+![](https://img.shields.io/badge/✅_SHIPPED-4ECDC4?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/RBAC-Spring_Security-6DB33F?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&labelColor=1a1a2e)
+
+`Java` `Spring Security` `JWT` `MySQL` `Hibernate` `RBAC`
 
 <p align="center">
-<a href="https://github.com/karanaawla1/SmartDesk-Helpdesk-System"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/karanaawla1/SmartDesk-Helpdesk-System"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
 <div align="center">
-
-### 🎓 Student Result — OpenShift
-
-![](https://img.shields.io/badge/IN_PROGRESS-OpenShift-EE0000?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&labelColor=0d1117)
-
+<img src="https://img.shields.io/badge/PROJECT_03-🎓_Student_Result-FFE66D?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
-Spring Boot REST API on **Red Hat OpenShift**. Supabase PostgreSQL, JWT Auth, Pass/Fail logic, GitHub Actions zero-downtime rolling deploys.
+<br/>
 
-```
-📌 Real OpenShift DeploymentConfig
-📌 Full DevOps pipeline
-📌 Supabase cloud database
-```
+**REST API on Red Hat OpenShift** — Supabase PostgreSQL, JWT Auth, Pass/Fail logic, GitHub Actions CI/CD with zero-downtime rolling deploys. Real DevOps!
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+> 💬 *"Because deploying to localhost is not a skill"*
+
+![](https://img.shields.io/badge/🔄_IN_PROGRESS-FFE66D?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&labelColor=1a1a2e)
+![](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&labelColor=1a1a2e)
+
+`Java` `Spring Boot` `PostgreSQL` `OpenShift` `Docker` `GitHub Actions`
 
 <p align="center">
-<a href="https://github.com/karanaawla1"><img src="https://img.shields.io/badge/Coming_Soon-533483?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/karanaawla1"><img src="https://img.shields.io/badge/Coming_Soon-FFE66D?style=for-the-badge&logo=github"/></a>
 </p>
+
 </td>
 <td width="50%" valign="top">
+
 <div align="center">
-
-### 💸 Expense Tracker API
-
-![](https://img.shields.io/badge/LIVE-Render-46E3B7?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Python_+_Flask-3776AB?style=flat-square&labelColor=0d1117)
-
+<img src="https://img.shields.io/badge/PROJECT_04-💸_Expense_Tracker-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
-Python Flask REST API — JWT auth, CRUD + analytics routes, Flask Blueprints, SQLAlchemy — deployed live on cloud with Postman docs.
+<br/>
 
-```
-📌 Cross-language backend skills
-📌 Analytics endpoints
-📌 Blueprint architecture
-```
+**Python Flask REST API** — JWT auth, full CRUD + analytics routes, Flask Blueprints, SQLAlchemy — **live on Render** with Postman docs.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+> 💬 *"Tracks my expenses better than I track my bugs"*
+
+![](https://img.shields.io/badge/🟢_LIVE-46E3B7?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&labelColor=1a1a2e)
+
+`Python` `Flask` `JWT` `SQLite` `SQLAlchemy` `Render`
 
 <p align="center">
-<a href="https://expense-tracker-api-wqp5.onrender.com"><img src="https://img.shields.io/badge/Live_API-E94560?style=for-the-badge"/></a>
+<a href="https://expense-tracker-api-wqp5.onrender.com"><img src="https://img.shields.io/badge/Live_API-A855F7?style=for-the-badge"/></a>
 </p>
+
 </td>
 </tr>
 </table>
@@ -268,35 +298,48 @@ Python Flask REST API — JWT auth, CRUD + analytics routes, Flask Blueprints, S
 
 ---
 
-## 📊 &nbsp;`git log --stats`
+<!-- ============================================================ -->
+<!--              COLORFUL STATS SECTION                         -->
+<!-- ============================================================ -->
+
+## 📊 &nbsp; GitHub Wrapped (every day)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karanaawla1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true&rank_icon=percentile&title_color=E94560&icon_color=E94560&text_color=c9d1d9&bg_color=0d1117&ring_color=E94560" height="200"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" alt="stats"/>
+
+<br/><br/>
+
+<!-- Stats + Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=karanaawla1&show_icons=true&theme=radical&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&rank_icon=percentile&title_color=FF6B6B&icon_color=FFE66D&text_color=c9d1d9&bg_color=0d1117&ring_color=A855F7" height="200"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanaawla1&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=14&langs_count=8&title_color=E94560&text_color=c9d1d9&bg_color=0d1117" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanaawla1&layout=donut-vertical&theme=radical&hide_border=true&border_radius=16&langs_count=8&title_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" height="200"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=karanaawla1&theme=tokyonight-duo&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D&card_width=760&ring=E94560&fire=E94560&currStreakLabel=E94560&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="77%"/>
+<!-- Streak stats — colorful theme -->
+<img src="https://streak-stats.demolab.com?user=karanaawla1&theme=radical&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&card_width=760&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&background=0d1117" width="76%"/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanaawla1&theme=tokyo-night&hide_border=true&radius=8&area=true&area_color=E94560&line=E94560&point=ffffff&color=c9d1d9&bg_color=0d1117&custom_title=Karan%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity Graph — colorful -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanaawla1&theme=redical&hide_border=true&radius=12&area=true&area_color=FF6B6B&line=FFE66D&point=4ECDC4&color=c9d1d9&bg_color=0d1117&custom_title=Karan%27s%20Daily%20Grind%20📈)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanaawla1&theme=tokyonight" width="76%"/>
+<!-- Profile summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanaawla1&theme=radical" width="76%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karanaawla1&theme=tokyonight&utcOffset=5.5" width="36%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karanaawla1&theme=radical&utcOffset=5.5" width="36%"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanaawla1&theme=tokyonight" width="36%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanaawla1&theme=radical" width="36%"/>
 
 <br/><br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=karanaawla1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophies — colorful theme -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=karanaawla1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -304,47 +347,51 @@ Python Flask REST API — JWT auth, CRUD + analytics routes, Flask Blueprints, S
 
 ---
 
-## ⚡ &nbsp;`status --live`
+<!-- ============================================================ -->
+<!--              STATUS — COLORFUL BOX STYLE                    -->
+<!-- ============================================================ -->
+
+## ⚡ &nbsp; Current Situation (honest edition)
 
 <div align="center">
 
-<table width="90%">
+<table width="92%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center">
 
 ```bash
-╔══════════════════════════════╗
-║       CURRENTLY LEARNING     ║
-╠══════════════════════════════╣
-║  ✅  Java Full Stack  @Ashok ║
-║  🔄  Microservices  Active   ║
-║  🔄  OpenShift + K8s Active  ║
-║  🔄  System Design  Active   ║
-╠══════════════════════════════╣
-║       CURRENTLY BUILDING     ║
-╠══════════════════════════════╣
-║  🚀  Student Result OpenShift║
-║  🗓️  NexTalk Chat  → Planned ║
-╚══════════════════════════════╝
+╔══════════════════════════════════╗
+║  🎓  LEARNING BOARD              ║
+╠══════════════════════════════════╣
+║  ✅  Java Full Stack  @ Ashok IT ║
+║  🔄  Microservices Architecture  ║
+║  🔄  OpenShift + Kubernetes      ║
+║  🔄  System Design Fundamentals  ║
+╠══════════════════════════════════╣
+║  🚧  CURRENTLY BUILDING          ║
+╠══════════════════════════════════╣
+║  🚀  Student Result → OpenShift  ║
+║  🗓️  NexTalk Real-Time Chat → WIP ║
+╚══════════════════════════════════╝
 ```
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center">
 
 ```bash
-╔══════════════════════════════╗
-║         CERTIFICATIONS       ║
-╠══════════════════════════════╣
-║  🐳  Docker Foundations  ✅  ║
-║  ☁️   Azure AI Essentials ✅  ║
-║  🟨  HackerRank SQL Basic ✅ ║
-╠══════════════════════════════╣
-║        OPEN TO WORK  🚀      ║
-╠══════════════════════════════╣
-║  → Associate Software Eng    ║
-║  → Java Backend Developer    ║
-║  📍 Hyderabad ⭐ Pune  Noida ║
-╚══════════════════════════════╝
+╔══════════════════════════════════╗
+║  🏆  CERTIFICATIONS              ║
+╠══════════════════════════════════╣
+║  🐳  Docker Foundations Pro  ✅  ║
+║  ☁️   Azure AI Essentials    ✅  ║
+║  🟨  HackerRank SQL Basic   ✅   ║
+╠══════════════════════════════════╣
+║  💼  ACTIVELY SEEKING            ║
+╠══════════════════════════════════╣
+║  →  Associate Software Engineer  ║
+║  →  Java Backend Developer       ║
+║  📍  Hyderabad ⭐ | Pune | Noida ║
+╚══════════════════════════════════╝
 ```
 
 </td>
@@ -355,23 +402,78 @@ Python Flask REST API — JWT auth, CRUD + analytics routes, Flask Blueprints, S
 
 ---
 
-## 🤝 &nbsp;`connect --social`
+<!-- ============================================================ -->
+<!--              FUN / UNIQUE SECTION                           -->
+<!-- ============================================================ -->
+
+## 😂 &nbsp; Dev Life in Memes
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="works on my machine"/>
+<br/><sub><b>Works on my machine 🤷</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="bug fixing"/>
+<br/><sub><b>Fixing one bug, creating three 🐛</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="pushing to prod"/>
+<br/><sub><b>Pushing to prod on Friday 😈</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Fun badges -->
+<img src="https://img.shields.io/badge/Bug_driven-Development-FF6B6B?style=flat-square&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/StackOverflow-My_second_brain-F48024?style=flat-square&logo=stackoverflow&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Git_commit_message-fix:_everything-FFE66D?style=flat-square&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tabs_vs_Spaces-I_use_both_😅-4ECDC4?style=flat-square&labelColor=1a1a2e"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ============================================================ -->
+<!--               CONNECT — COLORFUL                            -->
+<!-- ============================================================ -->
+
+## 🌈 &nbsp; Let's Connect!
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave"/>
+
+**I'm friendly, I promise. Just a developer looking for his first big break. 👋**
+
+<br/>
 
 <a href="https://linkedin.com/in/karanaawla">
-<img src="https://img.shields.io/badge/LinkedIn-Karan_Aawla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://github.com/karanaawla1">
-<img src="https://img.shields.io/badge/GitHub-karanaawla1-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;
 <a href="mailto:karanaawla1@gmail.com">
-<img src="https://img.shields.io/badge/Email-karanaawla1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://smartassist-ai-chatbot.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20solve%20the%20problem%2C%20then%20write%20the%20code.&author=John%20Johnson" width="65%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" width="65%"/>
 
 <br/><br/>
 
@@ -379,16 +481,20 @@ Python Flask REST API — JWT auth, CRUD + analytics routes, Flask Blueprints, S
 
 </div>
 
+<!-- ============================================================ -->
+<!--                  COLORFUL FOOTER                            -->
+<!-- ============================================================ -->
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f3460,70:E94560,100:533483&height=160&section=footer&animation=twinkling&text=Let%27s%20Build%20Something%20Together!&fontSize=24&fontColor=ffffff&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFE66D,50:4ECDC4,75:45B7D1,100:A855F7&height=160&section=footer&animation=twinkling&text=Thanks%20for%20visiting!%20Now%20hire%20me%20😄&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%"/>
 
 <div align="center">
 
-![](https://img.shields.io/badge/Made_with_by-Karan_Aawla-E94560?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Made_with_☕_and_Java_by-Karan_Aawla-FF6B6B?style=flat-square&labelColor=1a1a2e)
 &nbsp;
-![](https://img.shields.io/badge/Building-Always_Learning-533483?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Est.-2024-FFE66D?style=flat-square&labelColor=1a1a2e)
 &nbsp;
-![](https://img.shields.io/badge/Open_to_work-Lets_talk-00C853?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/404:_Unemployment-Not_Found_🚀-4ECDC4?style=flat-square&labelColor=1a1a2e)
 
 </div>
