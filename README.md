@@ -1,196 +1,171 @@
-<!-- ============================================================ -->
-<!--              HEADER — COLORFUL SLICE BANNER                 -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B6B,25:FFE66D,50:4ECDC4,75:45B7D1,100:A855F7&height=200&section=header&text=Karan%20Aawla&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&fontAlign=70&desc=Java%20Backend%20Dev%20%7C%20Spring%20Boot%20%7C%20OpenShift%20%7C%20Deployed%20%26%20Dangerous%20%F0%9F%9A%80&descSize=14&descAlignY=70&descAlign=70&descColor=ffffff&rotate=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=20&section=header" width="100%"/>
 
 </div>
 
-<!-- ============================================================ -->
-<!--           TYPING + COLORFUL BADGES                          -->
-<!-- ============================================================ -->
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║        ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗  ██╗   █████╗ ██████╗  ║
+║        ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗ ██║  ██╔══██╗██╔══██╗ ║
+║        █████╔╝ ███████║██████╔╝███████║██╔██╗██║  ███████║██████╔╝ ║
+║        ██╔═██╗ ██╔══██║██╔══██╗██╔══██║██║╚████║  ██╔══██║██╔═══╝  ║
+║        ██║  ██╗██║  ██║██║  ██║██║  ██║██║  ███║  ██║  ██║██║      ║
+║        ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝  ╚═╝  ╚═╝╚═╝      ║
+║                                                                       ║
+║              [ Java Backend Developer  •  v1.0.0-SNAPSHOT ]          ║
+║                    [ Status: 🟢 RUNNING • Open To Work ]             ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=600&color=FF6B6B&center=true&vCenter=true&multiline=false&random=true&width=700&lines=ECE+grad+who+touched+Java+%26+never+went+back+%F0%9F%98%AD;Building+things+since+2024...+deploying+since+yesterday+%F0%9F%98%85;My+code+works+on+MY+machine+%F0%9F%AB%A1;Spring+Boot+developer+by+day%2C+bug+fixer+by+night+%F0%9F%90%9B;404%3A+Unemployment+Not+Found+%F0%9F%9A%80;Localhost%3A+best+friend.+Production%3A+final+boss.+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+KARAN.API+—+Developer+Documentation+v1.0;Base+URL%3A+https%3A%2F%2Flinkedin.com%2Fin%2Fkaranaawla;All+endpoints+return+JSON+%7C+Auth%3A+DM+on+LinkedIn;GET+%2Fkaran%2Fhire+→+200+OK+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Rainbow status badges -->
-<img src="https://img.shields.io/badge/☕_Runs_on-Coffee_%26_Java-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
+![](https://img.shields.io/badge/API_VERSION-v1.0.0--SNAPSHOT-00FF88?style=for-the-badge&labelColor=0d1117&color=00FF88)
 &nbsp;
-<img src="https://img.shields.io/badge/🟢_STATUS-OPEN_TO_WORK-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
+![](https://img.shields.io/badge/STATUS-200_OK_🟢-00FF88?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-<img src="https://img.shields.io/badge/📍_CITY-HYDERABAD_IN-FFE66D?style=for-the-badge&labelColor=1a1a2e"/>
+![](https://img.shields.io/badge/CONTENT__TYPE-application%2Fjson-00BFFF?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=karanaawla1&style=for-the-badge&color=A855F7&label=STALKERS+👀"/>
-
-<br/><br/>
-
-<!-- CTA Row -->
-<a href="https://linkedin.com/in/karanaawla">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-</a>&nbsp;
-<a href="mailto:karanaawla1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Hire_Me_(Please)-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-</a>&nbsp;
-<a href="https://smartassist-ai-chatbot.onrender.com">
-<img src="https://img.shields.io/badge/🌐_Demo-SmartAssist_Live-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=karanaawla1&style=for-the-badge&color=FF6B6B&label=API+CALLS&labelColor=0d1117"/>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- ============================================================ -->
-<!--                   ABOUT ME — FUN LAYOUT                     -->
-<!-- ============================================================ -->
+<div align="center">
 
-## 👾 &nbsp; Who is this guy?
+## 📡 &nbsp; `BASE URL`
 
-<table>
-<tr>
-<td valign="top" width="55%">
+```
+https://github.com/karanaawla1
+```
 
-### `karan.json` 📄
+| Method | Endpoint | Description | Auth |
+|:------:|:---------|:------------|:----:|
+| `GET` | [`/karan/info`](#-get-karaninfo) | Who is this guy? | None |
+| `GET` | [`/karan/stack`](#-get-karanstack) | Tech skills | None |
+| `GET` | [`/karan/projects`](#-get-karanprojects) | Things I built | None |
+| `GET` | [`/karan/journey`](#-get-karanjourney) | My story | None |
+| `GET` | [`/karan/status`](#-get-karanstatus) | Current availability | None |
+| `POST` | [`/karan/hire`](#-post-karanhire) | **Hire me** 🚀 | **Required** |
+
+</div>
+
+---
+
+## 🟢 `GET` &nbsp;`/karan/info`
+
+> Returns developer profile information
+
+**Response `200 OK`:**
 
 ```json
 {
-  "name"    : "Karan Aawla",
-  "role"    : "Java Backend Developer",
-  "from"    : "Hyderabad, India 🇮🇳",
-  "degree"  : "B.Tech ECE (2025) — LNCTS Bhopal",
-  "status"  : "🟢 Open to work — literally DM me",
-  "mood"    : "☕ caffeinated and building",
+  "name"       : "Karan Aawla",
+  "role"       : "Java Backend Developer",
+  "location"   : "Hyderabad, India 🇮🇳",
+  "education"  : "B.Tech ECE — LNCTS Bhopal (2025)",
+  "training"   : "Java Full Stack @ Ashok IT",
+  "available"  : true,
+  "response_time" : "Fast — I check LinkedIn obsessively 😅",
 
-  "superpower"   : "Turning coffee into APIs",
-  "kryptonite"   : "CSS (don't judge me)",
-  "current_boss" : "Spring Boot + OpenShift",
+  "personality" : {
+    "type"      : "Builder",
+    "trait"     : "Ships things to cloud, not just localhost",
+    "weakness"  : "CSS (please don't ask)",
+    "superpower": "Turning caffeine into Spring Boot APIs"
+  },
 
-  "hobbies" : ["writing code", "debugging code",
-               "googling StackOverflow", "repeat"],
+  "fun_facts" : [
+    "ECE grad who opened Java docs by accident and never closed the tab",
+    "My first Spring Boot app had 47 StackOverflow tabs open",
+    "I consider a successful deployment a personal victory 🏆",
+    "404: Work-Life Balance Not Found"
+  ],
 
-  "life_goal" : "Ship code. Get hired. Repeat. 🚀"
+  "contact" : {
+    "linkedin" : "linkedin.com/in/karanaawla",
+    "github"   : "github.com/karanaawla1",
+    "email"    : "karanaawla1@gmail.com"
+  }
 }
 ```
 
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="180" alt="coding cat"/>
-
-<br/>
-
-> 💀 **Backstory:**
-> ECE grad who opened
-> Java docs by accident
-> and never closed the tab.
-
-<br/>
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="github"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Fun fact boxes -->
-<div align="center">
-
-| 🔥 Currently | 🧠 Learning | 🎯 Hunting | 😅 Confession |
-|:-----------:|:-----------:|:----------:|:-------------:|
-| Building on OpenShift | Microservices + K8s | Java Backend roles | Still Googling Java syntax |
-| Deploying to cloud ☁️ | System Design | Hyderabad 📍 first | localhost is my safe space |
-
+<div align="right">
+<a href="https://linkedin.com/in/karanaawla"><img src="https://img.shields.io/badge/Try_it_→_LinkedIn-0A66C2?style=flat-square&logo=linkedin"/></a>
+<a href="mailto:karanaawla1@gmail.com"><img src="https://img.shields.io/badge/Try_it_→_Gmail-EA4335?style=flat-square&logo=gmail"/></a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- ============================================================ -->
-<!--              COLORFUL TECH STACK                            -->
-<!-- ============================================================ -->
+## 🟢 `GET` &nbsp;`/karan/stack`
 
-## 🛠️ &nbsp; My Arsenal of Chaos
+> Returns complete technology stack with proficiency metadata
+
+**Response `200 OK`:**
+
+```json
+{
+  "backend": {
+    "primary"  : ["Java 17", "Spring Boot 3", "Spring Security", "Hibernate/JPA"],
+    "secondary": ["Python", "Flask"],
+    "expertise": "⭐⭐⭐⭐☆",
+    "note"     : "This is where I live"
+  },
+
+  "database": {
+    "relational"  : ["MySQL", "PostgreSQL", "H2"],
+    "tools"       : ["Spring Data JPA", "Hibernate ORM"],
+    "expertise"   : "⭐⭐⭐⭐☆"
+  },
+
+  "security": {
+    "auth"        : ["JWT", "Spring Security", "BCrypt"],
+    "patterns"    : ["RBAC", "Stateless Sessions", "Token Refresh"],
+    "expertise"   : "⭐⭐⭐⭐☆"
+  },
+
+  "devops": {
+    "containerization" : ["Docker", "Docker Hub"],
+    "orchestration"    : ["Red Hat OpenShift", "Kubernetes (learning)"],
+    "cicd"             : ["GitHub Actions"],
+    "cloud"            : ["Render", "Microsoft Azure", "Supabase"],
+    "expertise"        : "⭐⭐⭐☆☆",
+    "note"             : "Growing fast — currently on OpenShift"
+  },
+
+  "build_tools" : ["Maven", "Git", "Postman"],
+  "frontend"    : ["React (basic)", "HTML", "CSS (reluctantly 😭)"]
+}
+```
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" align="right" alt="coder"/>
-
-**⚡ The ones I use daily**
-
-[![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark&perline=4)](https://skillicons.dev)
-
-**🗄️ Data goes here**
-
-[![Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis&theme=dark&perline=4)](https://skillicons.dev)
-
-**🐳 Ship it!**
-
-[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure&theme=dark&perline=4)](https://skillicons.dev)
-
-**🔧 Tools I rely on**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark&perline=5)](https://skillicons.dev)
-
-**🎨 Frontend (I try my best 😭)**
-
-[![Skills](https://skillicons.dev/icons?i=react,html,css,js,python&theme=dark&perline=5)](https://skillicons.dev)
-
 <br/>
 
-<!-- Colorful tech stack animated icons -->
-<table>
-<tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/Java-FF6B6B?style=flat-square"/></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/Docker-45B7D1?style=flat-square"/></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/MySQL-4ECDC4?style=flat-square"/></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/REST_API-FFE66D?style=flat-square"/></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/Python-A855F7?style=flat-square"/></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/><br/><img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square"/></td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Proficiency bars — colorful version -->
-
-| Skill | Vibe Check | Level |
-|:------|:----------:|:-----:|
-| Java + Spring Boot | `█████████░` 88% | 🔥 My baby |
-| Spring Security + JWT | `████████░░` 75% | 💪 Solid |
-| MySQL + Hibernate | `████████░░` 75% | 💪 Solid |
-| Docker | `███████░░░` 65% | ⚡ Getting there |
-| GitHub Actions CI/CD | `██████░░░░` 58% | ⚡ Growing |
-| OpenShift + K8s | `█████░░░░░` 47% | 📚 Currently learning |
-| CSS (lol) | `███░░░░░░░` 30% | 💀 Send help |
+[![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgresql,docker,kubernetes,githubactions,azure,git,react&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- ============================================================ -->
-<!--              PROJECTS — COLORFUL CARDS                      -->
-<!-- ============================================================ -->
+## 🟢 `GET` &nbsp;`/karan/projects`
 
-## 🚀 &nbsp; Things I Actually Built
+> Returns list of projects with metadata, status, and live URLs
 
-<div align="center">
+**Response `200 OK`:**
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="90" alt="rocket"/>
-
-</div>
+```json
+{
+  "total": 4,
+  "all_deployed": true,
+  "projects": [
+```
 
 <br/>
 
@@ -198,45 +173,67 @@
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT_01-🤖_SmartAssist-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
-</div>
+```json
+{
+  "id"      : "PROJECT_001",
+  "name"    : "SmartAssist",
+  "type"    : "AI Chatbot Backend",
+  "status"  : "🟢 LIVE",
 
-<br/>
+  "highlights": [
+    "Groq LLaMA 3 AI integration",
+    "Real-time responses + history",
+    "JWT secured endpoints",
+    "Dockerized + cloud deployed",
+    "Animated React frontend"
+  ],
 
-**AI Chatbot Backend** — powered by Groq LLaMA 3. Real-time AI responses, conversation history, animated React frontend, JWT security — **live on cloud.**
+  "stack": ["Java", "Spring Boot",
+    "Groq API", "JWT", "Docker",
+    "H2", "React"],
 
-> 💬 *"It's basically me, but smarter and always available"*
-
-![](https://img.shields.io/badge/🟢_LIVE-46E3B7?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/AI-Groq_LLaMA3-FF6B6B?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Dockerized-2496ED?style=flat-square&logo=docker&labelColor=1a1a2e)
-
-`Java` `Spring Boot` `Groq API` `JWT` `Docker` `React` `H2`
+  "urls": {
+    "github": "github.com/karanaawla1/
+              SmartAssist-AI-Chatbot",
+    "live"  : "smartassist-ai-chatbot
+              .onrender.com"
+  }
+}
+```
 
 <p align="center">
 <a href="https://github.com/karanaawla1/SmartAssist-AI-Chatbot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>&nbsp;
-<a href="https://smartassist-ai-chatbot.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge"/></a>
+<a href="https://smartassist-ai-chatbot.onrender.com"><img src="https://img.shields.io/badge/LIVE-00FF88?style=for-the-badge"/></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT_02-🎫_SmartDesk-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
-</div>
+```json
+{
+  "id"      : "PROJECT_002",
+  "name"    : "SmartDesk",
+  "type"    : "Helpdesk Ticketing System",
+  "status"  : "✅ COMPLETE",
 
-<br/>
+  "highlights": [
+    "JWT + RBAC (Admin / User)",
+    "Full ticket lifecycle mgmt",
+    "Open→InProgress→Resolved",
+    "Spring Security patterns",
+    "Production-grade structure"
+  ],
 
-**Helpdesk Ticketing System** — JWT + RBAC, full ticket lifecycle (Open → In Progress → Resolved → Closed), Spring Security for Admin & User roles.
+  "stack": ["Java", "Spring Boot",
+    "Spring Security", "JWT",
+    "MySQL", "Hibernate"],
 
-> 💬 *"Raise a ticket, or raise your hand — both work"*
-
-![](https://img.shields.io/badge/✅_SHIPPED-4ECDC4?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/RBAC-Spring_Security-6DB33F?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&labelColor=1a1a2e)
-
-`Java` `Spring Security` `JWT` `MySQL` `Hibernate` `RBAC`
+  "urls": {
+    "github": "github.com/karanaawla1/
+              SmartDesk-Helpdesk-System"
+  }
+}
+```
 
 <p align="center">
 <a href="https://github.com/karanaawla1/SmartDesk-Helpdesk-System"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
@@ -247,261 +244,246 @@
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT_03-🎓_Student_Result-FFE66D?style=for-the-badge&labelColor=1a1a2e"/>
-</div>
+```json
+{
+  "id"      : "PROJECT_003",
+  "name"    : "StudentResultSystem",
+  "type"    : "OpenShift REST API",
+  "status"  : "🔄 IN PROGRESS",
 
-<br/>
+  "highlights": [
+    "Red Hat OpenShift deploy",
+    "Supabase PostgreSQL cloud",
+    "Pass/Fail auto-calculation",
+    "GitHub Actions CI/CD",
+    "Zero-downtime rolling deploy"
+  ],
 
-**REST API on Red Hat OpenShift** — Supabase PostgreSQL, JWT Auth, Pass/Fail logic, GitHub Actions CI/CD with zero-downtime rolling deploys. Real DevOps!
+  "stack": ["Java", "Spring Boot",
+    "PostgreSQL", "OpenShift",
+    "Docker", "GitHub Actions"],
 
-> 💬 *"Because deploying to localhost is not a skill"*
-
-![](https://img.shields.io/badge/🔄_IN_PROGRESS-FFE66D?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&labelColor=1a1a2e)
-![](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&labelColor=1a1a2e)
-
-`Java` `Spring Boot` `PostgreSQL` `OpenShift` `Docker` `GitHub Actions`
+  "urls": {
+    "github": "coming soon..."
+  }
+}
+```
 
 <p align="center">
-<a href="https://github.com/karanaawla1"><img src="https://img.shields.io/badge/Coming_Soon-FFE66D?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/karanaawla1"><img src="https://img.shields.io/badge/COMING_SOON-FFE66D?style=for-the-badge"/></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT_04-💸_Expense_Tracker-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
-</div>
+```json
+{
+  "id"      : "PROJECT_004",
+  "name"    : "ExpenseTrackerAPI",
+  "type"    : "Python Flask REST API",
+  "status"  : "🟢 LIVE",
 
-<br/>
+  "highlights": [
+    "JWT auth + CRUD endpoints",
+    "Analytics routes",
+    "Flask Blueprint structure",
+    "SQLAlchemy + SQLite",
+    "Live on Render"
+  ],
 
-**Python Flask REST API** — JWT auth, full CRUD + analytics routes, Flask Blueprints, SQLAlchemy — **live on Render** with Postman docs.
+  "stack": ["Python", "Flask",
+    "JWT", "SQLite",
+    "SQLAlchemy", "Render"],
 
-> 💬 *"Tracks my expenses better than I track my bugs"*
-
-![](https://img.shields.io/badge/🟢_LIVE-46E3B7?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&labelColor=1a1a2e)
-
-`Python` `Flask` `JWT` `SQLite` `SQLAlchemy` `Render`
+  "urls": {
+    "live": "expense-tracker-api-
+            wqp5.onrender.com"
+  }
+}
+```
 
 <p align="center">
-<a href="https://expense-tracker-api-wqp5.onrender.com"><img src="https://img.shields.io/badge/Live_API-A855F7?style=for-the-badge"/></a>
+<a href="https://expense-tracker-api-wqp5.onrender.com"><img src="https://img.shields.io/badge/LIVE-00FF88?style=for-the-badge"/></a>
 </p>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- ============================================================ -->
-<!--           JOURNEY + DIFFERENTIATORS (replacing stats)      -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-<!-- Journey Timeline -->
-<br/>
-
-### 🛤️ My Dev Journey So Far
-
-<br/>
-
-| 📅 Timeline | 🎯 Milestone | 🔧 What I built |
-|:-----------:|:------------:|:---------------:|
-| Early 2025 | Started Java | First "Hello World" (was proud 😭) |
-| Mid 2025 | Spring Boot | SmartDesk — Ticketing System |
-| Late 2025 | JWT + Security | Added auth like a real dev |
-| Jan 2026 | AI Integration | SmartAssist — Groq LLaMA 3 Chatbot |
-| Feb 2026 | Docker + Cloud | First live deployment on Render 🎉 |
-| Mar 2026 | OpenShift + K8s | Student Result System — DevOps mode |
-| NOW | **Looking for work** | **DM me please 🙏** |
-
-<br/>
-
-### 💡 What makes me different
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🚀_DEPLOYED-Not_just_localhost-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><sub>Everything I build runs live on cloud</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🤖_AI_INTEGRATED-Groq_LLaMA3-FFE66D?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><sub>Real AI API usage, not just tutorials</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔐_SECURED-JWT_+_RBAC-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><sub>Enterprise security patterns from day 1</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🐳_DEVOPS-Docker_+_OpenShift-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><sub>Full CI/CD pipeline, not just code</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- ============================================================ -->
-<!--              STATUS — COLORFUL BOX STYLE                    -->
-<!-- ============================================================ -->
-
-## ⚡ &nbsp; Current Situation (honest edition)
-
-<div align="center">
-
-<table width="92%">
-<tr>
-<td width="50%" align="center">
-
-```bash
-╔══════════════════════════════════╗
-║  🎓  LEARNING BOARD              ║
-╠══════════════════════════════════╣
-║  ✅  Java Full Stack  @ Ashok IT ║
-║  🔄  Microservices Architecture  ║
-║  🔄  OpenShift + Kubernetes      ║
-║  🔄  System Design Fundamentals  ║
-╠══════════════════════════════════╣
-║  🚧  CURRENTLY BUILDING          ║
-╠══════════════════════════════════╣
-║  🚀  Student Result → OpenShift  ║
-║  🗓️  NexTalk Real-Time Chat → WIP ║
-╚══════════════════════════════════╝
+```json
+  ] // end projects array
+}
 ```
 
-</td>
-<td width="50%" align="center">
+---
 
-```bash
-╔══════════════════════════════════╗
-║  🏆  CERTIFICATIONS              ║
-╠══════════════════════════════════╣
-║  🐳  Docker Foundations Pro  ✅  ║
-║  ☁️   Azure AI Essentials    ✅  ║
-║  🟨  HackerRank SQL Basic   ✅   ║
-╠══════════════════════════════════╣
-║  💼  ACTIVELY SEEKING            ║
-╠══════════════════════════════════╣
-║  →  Associate Software Engineer  ║
-║  →  Java Backend Developer       ║
-║  📍  Hyderabad ⭐ | Pune | Noida ║
-╚══════════════════════════════════╝
+## 🟢 `GET` &nbsp;`/karan/journey`
+
+> Returns developer timeline and growth story
+
+**Response `200 OK`:**
+
+```json
+{
+  "started_from" : "ECE Engineering (not even CS 💀)",
+  "current_level": "Production-grade backend developer",
+  "time_taken"   : "~12 months",
+
+  "timeline": [
+    {
+      "period": "Early 2025",
+      "event" : "Opened Java docs for the first time",
+      "result": "Hello World printed. Life changed. 😭"
+    },
+    {
+      "period": "Mid 2025",
+      "event" : "Discovered Spring Boot",
+      "result": "SmartDesk — full JWT + RBAC ticketing system"
+    },
+    {
+      "period": "Late 2025",
+      "event" : "Added AI integration",
+      "result": "SmartAssist — live AI chatbot on Render"
+    },
+    {
+      "period": "Feb 2026",
+      "event" : "Got Docker certification",
+      "result": "Docker Foundations Professional ✅"
+    },
+    {
+      "period": "Mar 2026",
+      "event" : "Discovered OpenShift",
+      "result": "StudentResultSystem — CI/CD, rolling deploys"
+    },
+    {
+      "period": "NOW",
+      "event" : "Looking for first job",
+      "result": "Please help. DM me. 🙏"
+    }
+  ],
+
+  "summary": "ECE grad. No CS degree. No internship.
+              Just 4 deployed projects and a ton of hope. 🚀"
+}
 ```
 
-</td>
-</tr>
-</table>
+---
 
-</div>
+## 🟢 `GET` &nbsp;`/karan/status`
+
+> Returns real-time availability and current focus
+
+**Response `200 OK`:**
+
+```json
+{
+  "available"       : true,
+  "response_time"   : "< 24 hours (usually in minutes)",
+  "preferred_mode"  : "LinkedIn DM or Email",
+
+  "seeking": {
+    "roles"  : ["Associate Software Engineer",
+                "Java Backend Developer",
+                "Backend Developer"],
+    "cities" : ["Hyderabad (preferred ⭐)",
+                "Pune", "Noida"],
+    "type"   : "Full-time"
+  },
+
+  "currently_learning": [
+    "Microservices Architecture",
+    "OpenShift + Kubernetes",
+    "System Design Fundamentals"
+  ],
+
+  "currently_building": [
+    "StudentResultSystem → OpenShift (in progress)",
+    "NexTalk → Real-time Chat App (planned)"
+  ],
+
+  "certifications": [
+    "🐳 Docker Foundations Professional — 2026 ✅",
+    "☁️  Microsoft Azure AI Essentials  — 2025 ✅",
+    "🟨  HackerRank SQL Basic           — 2025 ✅"
+  ]
+}
+```
 
 ---
 
-<!-- ============================================================ -->
-<!--              FUN / UNIQUE SECTION                           -->
-<!-- ============================================================ -->
+## 🔴 `POST` &nbsp;`/karan/hire`
 
-## 😂 &nbsp; Dev Life in Memes
+> Initiates hiring process. **This is the most important endpoint.**
 
-<div align="center">
+**Request Body:**
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="works on my machine"/>
-<br/><sub><b>Works on my machine 🤷</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="bug fixing"/>
-<br/><sub><b>Fixing one bug, creating three 🐛</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="pushing to prod"/>
-<br/><sub><b>Pushing to prod on Friday 😈</b></sub>
-</td>
-</tr>
-</table>
+```json
+{
+  "company"  : "YOUR_COMPANY_NAME",
+  "role"     : "Java Backend Developer (or similar)",
+  "location" : "Hyderabad | Pune | Noida | Remote",
+  "message"  : "Hey Karan, we'd like to talk..."
+}
+```
 
-<br/>
+**Response `200 OK`:**
 
-<!-- Fun badges -->
-<img src="https://img.shields.io/badge/Bug_driven-Development-FF6B6B?style=flat-square&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/StackOverflow-My_second_brain-F48024?style=flat-square&logo=stackoverflow&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Git_commit_message-fix:_everything-FFE66D?style=flat-square&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Tabs_vs_Spaces-I_use_both_😅-4ECDC4?style=flat-square&labelColor=1a1a2e"/>
+```json
+{
+  "status"  : "APPLICATION_RECEIVED",
+  "message" : "Karan has been notified and is doing a happy dance 💃",
+  "eta"     : "Will reply within 24 hours. Probably less.",
+  "next"    : "Interview → Offer → Dream Job 🚀"
+}
+```
 
-</div>
+**Response `404 Not Found`:**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- ============================================================ -->
-<!--               CONNECT — COLORFUL                            -->
-<!-- ============================================================ -->
-
-## 🌈 &nbsp; Let's Connect!
+```json
+{
+  "error"   : "OPPORTUNITY_NOT_FOUND",
+  "message" : "That's okay. Karan will keep building. 💪"
+}
+```
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave"/>
-
-**I'm friendly, I promise. Just a developer looking for his first big break. 👋**
 
 <br/>
 
 <a href="https://linkedin.com/in/karanaawla">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/karanaawla1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:karanaawla1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://smartassist-ai-chatbot.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/POST_/karan/hire_→_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" width="65%"/>
-
-<br/><br/>
-
-<img src="https://profile-counter.glitch.me/karanaawla1/count.svg"/>
+&nbsp;
+<a href="mailto:karanaawla1@gmail.com">
+<img src="https://img.shields.io/badge/POST_/karan/hire_→_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
 
 </div>
 
-<!-- ============================================================ -->
-<!--                  COLORFUL FOOTER                            -->
-<!-- ============================================================ -->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFE66D,50:4ECDC4,75:45B7D1,100:A855F7&height=160&section=footer&animation=twinkling&text=Thanks%20for%20visiting!%20Now%20hire%20me%20😄&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%"/>
+---
 
 <div align="center">
 
-![](https://img.shields.io/badge/Made_with_☕_and_Java_by-Karan_Aawla-FF6B6B?style=flat-square&labelColor=1a1a2e)
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   KARAN.API  •  v1.0.0-SNAPSHOT  •  © 2026              ║
+║                                                          ║
+║   All endpoints are free to call.                        ║
+║   POST /karan/hire is highly encouraged.                 ║
+║                                                          ║
+║   Built with: Java ☕ + Spring Boot 🍃 + Hope 🙏         ║
+║   Deployed on: Cloud (not localhost, I promise)  🚀      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+![](https://img.shields.io/badge/Made_with_☕_by-Karan_Aawla-00FF88?style=flat-square&labelColor=0d1117)
 &nbsp;
-![](https://img.shields.io/badge/Est.-2024-FFE66D?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/404-Unemployment_Not_Found-FF6B6B?style=flat-square&labelColor=0d1117)
 &nbsp;
-![](https://img.shields.io/badge/404:_Unemployment-Not_Found_🚀-4ECDC4?style=flat-square&labelColor=1a1a2e)
+<img src="https://komarev.com/ghpvc/?username=karanaawla1&style=flat-square&color=00FF88&label=API+CALLS&labelColor=0d1117"/>
 
 </div>
