@@ -1,14 +1,14 @@
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karan%20Aawla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Open%20To%20Work%20%F0%9F%9A%80&descAlignY=55&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kiran%20Shikha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Open%20To%20Work%20%F0%9F%9A%80&descAlignY=55&descSize=17" />
 
 <!-- Badges Row -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=karanaawla1&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Kshikha15&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To%20Work-%2300C853.svg?style=for-the-badge&logo=googlemeet&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Based%20In-Hyderabad%20🇮🇳-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Based%20In-Dehradun%20🇮🇳-FF6F00?style=for-the-badge" />
 
 </div>
 
@@ -16,30 +16,26 @@
 
 ---
 
-<!-- About Me -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-
 ### `> whoami`
 
 ```yaml
-name        : Karan Aawla
+name        : Kiran Shikha
 role        : Java Backend Developer
-location    : Hyderabad, India 🇮🇳
-education   : B.Tech ECE — 2025 Graduate
-training    : Java Full Stack @ Ashok IT
+location    : Dehradun, Uttarakhand 🇮🇳
+education   : B.Tech CSE — 2027 (DIT Dehradun)
+specialization : AI / ML Fundamentals
 status      : Open To Work 🚀
 ```
 
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="230" />
 
-I'm a backend developer who learns by building real things.
+Aspiring Java Backend Developer with strong proficiency in **Java, Spring Boot, Spring Security, REST APIs, and MySQL**.
 
-I didn't just read about Spring Boot — I built a full AI chatbot system with real API integrations, JWT security, database persistence, and shipped it live to the cloud. I care about writing code that's clean, structured, and actually works in production — not just on localhost.
+I didn't just read about backend development — I built an enterprise-grade Helpdesk Ticketing System with Role-Based Access Control, full ticket lifecycle management, and JWT-secured REST APIs. I also built a scalable AI Chatbot backend with real-time query processing and complete chat history persistence.
 
-Right now I'm looking for a team where I can grow fast, contribute meaningfully, and keep building things that matter. 💪
+I follow clean **MVC Architecture**, write structured code, and validate everything end-to-end using Postman. I'm looking for a team where I can grow fast, contribute meaningfully, and keep building things that matter. 💪
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
@@ -47,33 +43,47 @@ Right now I'm looking for a team where I can grow fast, contribute meaningfully,
 
 <div align="center">
 
-**Core**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Backend**
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Database & Build**
 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2%20Database-%230000BB.svg?style=for-the-badge&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 **Cloud & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Concepts**
+
+![OOP](https://img.shields.io/badge/OOP-%230175C2.svg?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-%23430098.svg?style=for-the-badge&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-%23E11D48.svg?style=for-the-badge&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20SDLC-%2300C853.svg?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-%23FF6F00.svg?style=for-the-badge&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML%20Fundamentals-%236E40C9.svg?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -85,29 +95,54 @@ Right now I'm looking for a team where I can grow fast, contribute meaningfully,
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 SmartAssist — AI Chatbot</h3>
+<h3>🎫 SmartDesk — Helpdesk Ticketing System</h3>
 
-AI-powered chatbot backend built with **Spring Boot & Groq LLaMA 3**. Features real-time AI responses, conversation history, animated chat UI, Docker containerization — live on the cloud.
+Enterprise-grade helpdesk system with **Spring Boot & Spring Security**. Features Role-Based Access Control (User/Admin), full ticket lifecycle (Open → In Progress → Resolved → Closed), custom Exception Handling, MySQL integration with Hibernate/JPA, and complete REST API validation via Postman.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/karanaawla1/SmartAssist-AI-Chatbot)
-[![Live](https://img.shields.io/badge/🌐%20Live-Demo-46E3B7?style=flat-square)](https://smartassist-ai-chatbot.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Kshikha15)
 
-`Java` `Spring Boot` `Groq API` `Docker` `H2` `REST`
+`Java` `Spring Boot` `Spring Security` `RBAC` `MySQL` `Hibernate` `JPA` `Maven` `Postman`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎫 SmartDesk — Helpdesk System</h3>
+<h3>🤖 SmartAssist — AI Chatbot Backend</h3>
 
-Full-featured ticketing system with **JWT-based authentication**, Role-Based Access Control, complete ticket lifecycle management & secure REST APIs built with Spring Security.
+Scalable AI chatbot backend with **Spring Boot & RESTful Web Services**. Features intent classification, real-time dynamic query processing via JSON APIs, complete chat history persistence with MySQL, MVC layered architecture, and end-to-end Postman API testing.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/karanaawla1)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Kshikha15)
 
-`Java` `Spring Security` `JWT` `MySQL` `Hibernate` `RBAC`
+`Java` `Spring Boot` `Spring Data JPA` `REST APIs` `MySQL` `Hibernate` `Maven` `Postman`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚖️ Online Judge System</h3>
+
+Competitive programming judge system built with **Java**. Supports code submission, evaluation, and result tracking.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/Kshikha15/online-judge-system)
+
+`Java` `Backend` `OOP` `DSA`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚀 More Projects Coming Soon...</h3>
+
+Currently building more backend projects with **Microservices Architecture** and **System Design** principles.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=flat-square&logo=github)](https://github.com/Kshikha15)
 
 </td>
 </tr>
@@ -115,11 +150,15 @@ Full-featured ticketing system with **JWT-based authentication**, Role-Based Acc
 
 ---
 
-### `> git log --streak`
+### `> git log --stats`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=karanaawla1&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Kshikha15&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshikha15&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
@@ -128,17 +167,18 @@ Full-featured ticketing system with **JWT-based authentication**, Role-Based Acc
 ### `> status --current`
 
 ```bash
-$ learning  →  Java Full Stack Development @ Ashok IT
-              Microservices Architecture
-              System Design Fundamentals
+$ studying   →  B.Tech CSE @ DIT Dehradun (2023–2027)
+               DSA for Interviews
+               Microservices Architecture
+               System Design Fundamentals
 
-$ seeking   →  Associate Software Engineer
-              Java Backend Developer
-              📍 Hyderabad · Pune · Noida
+$ seeking    →  Java Backend Developer Intern
+               Associate Software Engineer
+               📍 Dehradun · Noida · Remote
 
-$ certs     →  🐳 Docker Foundations Professional       ✅
-              ☁️  Microsoft Azure AI Essentials          ✅
-              🟨  HackerRank SQL Basic                  ✅
+$ certs      →  📊 IBM — Introduction to Data Analytics     ✅
+               ☁️  Google Cloud Skills Boost — Arcade       ✅
+               ☕ Java Training Crash Course                ✅
 ```
 
 ---
@@ -147,9 +187,9 @@ $ certs     →  🐳 Docker Foundations Professional       ✅
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Aawla-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanaawla)
-[![GitHub](https://img.shields.io/badge/GitHub-karanaawla1-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karanaawla1)
-[![Live Project](https://img.shields.io/badge/🌐%20SmartAssist-Live%20Demo-%236E40C9.svg?style=for-the-badge)](https://smartassist-ai-chatbot.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran%20Shikha-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiranshikha)
+[![GitHub](https://img.shields.io/badge/GitHub-Kshikha15-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshikha15)
+[![Email](https://img.shields.io/badge/Email-kiranshikha94%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranshikha94@gmail.com)
 
 </div>
 
