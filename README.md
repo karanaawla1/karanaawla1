@@ -105,7 +105,7 @@ Full-featured ticketing system with **JWT-based authentication**, Role-Based Acc
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/karanaawla1)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/karanaawla1/SmartDesk-Helpdesk-System)
 
 `Java` `Spring Security` `JWT` `MySQL` `Hibernate` `RBAC`
 
