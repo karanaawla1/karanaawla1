@@ -299,33 +299,10 @@
 ---
 
 <!-- ============================================================ -->
-<!--              COLORFUL STATS SECTION                         -->
+<!--           JOURNEY + DIFFERENTIATORS (replacing stats)      -->
 <!-- ============================================================ -->
 
-## 📊 &nbsp; GitHub Wrapped (every day)
-
 <div align="center">
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" alt="stats"/>
-
-<br/><br/>
-
-<!-- Stats + Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=karanaawla1&show_icons=true&theme=radical&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&rank_icon=percentile&title_color=FF6B6B&icon_color=FFE66D&text_color=c9d1d9&bg_color=0d1117&ring_color=A855F7" height="200"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanaawla1&layout=donut-vertical&theme=radical&hide_border=true&border_radius=16&langs_count=8&title_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" height="200"/>
-
-<br/><br/>
-
-<!-- Streak stats — colorful theme -->
-<img src="https://streak-stats.demolab.com?user=karanaawla1&theme=radical&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&card_width=760&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&background=0d1117" width="76%"/>
-
-<br/><br/>
-
-<!-- Activity Graph — colorful -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanaawla1&theme=redical&hide_border=true&radius=12&area=true&area_color=FF6B6B&line=FFE66D&point=4ECDC4&color=c9d1d9&bg_color=0d1117&custom_title=Karan%27s%20Daily%20Grind%20📈)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
 
 <!-- Journey Timeline -->
 <br/>
