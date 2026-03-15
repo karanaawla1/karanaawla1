@@ -327,19 +327,49 @@
 
 <br/>
 
-<!-- Profile summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanaawla1&theme=radical" width="76%"/>
+<!-- Journey Timeline -->
+<br/>
+
+### 🛤️ My Dev Journey So Far
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karanaawla1&theme=radical&utcOffset=5.5" width="36%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanaawla1&theme=radical" width="36%"/>
+| 📅 Timeline | 🎯 Milestone | 🔧 What I built |
+|:-----------:|:------------:|:---------------:|
+| Early 2025 | Started Java | First "Hello World" (was proud 😭) |
+| Mid 2025 | Spring Boot | SmartDesk — Ticketing System |
+| Late 2025 | JWT + Security | Added auth like a real dev |
+| Jan 2026 | AI Integration | SmartAssist — Groq LLaMA 3 Chatbot |
+| Feb 2026 | Docker + Cloud | First live deployment on Render 🎉 |
+| Mar 2026 | OpenShift + K8s | Student Result System — DevOps mode |
+| NOW | **Looking for work** | **DM me please 🙏** |
 
-<br/><br/>
+<br/>
 
-<!-- Trophies — colorful theme -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=karanaawla1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 💡 What makes me different
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀_DEPLOYED-Not_just_localhost-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><sub>Everything I build runs live on cloud</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖_AI_INTEGRATED-Groq_LLaMA3-FFE66D?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><sub>Real AI API usage, not just tutorials</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔐_SECURED-JWT_+_RBAC-4ECDC4?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><sub>Enterprise security patterns from day 1</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🐳_DEVOPS-Docker_+_OpenShift-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><sub>Full CI/CD pipeline, not just code</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
