@@ -184,29 +184,50 @@ A **production-ready helpdesk ticketing REST API** with enterprise-grade securit
 
 ---
 
-## `$ git log --stats`
+## `$ sudo trophy --display`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karanaawla1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Stats&icon_color=00d9ff&title_color=00d9ff" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanaawla1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00d9ff" width="39%" alt="Top Languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karanaawla1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
 
 </div>
+
+---
+
+## `$ cat skills --proficiency`
 
 <div align="center">
-<br/>
-<img src="https://streak-stats.demolab.com?user=karanaawla1&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" width="60%" alt="GitHub Streak"/>
+
+<table width="80%">
+<tr><td>
+
+```
+ Java 21 + Spring Boot      ████████████████████  ██  90%
+ Spring Security + JWT      ███████████████████░  ░░  85%
+ REST API Design            ████████████████████  ██  90%
+ Spring Data JPA + ORM      ██████████████████░░  ░░  80%
+ Docker & Containerization  ████████████████░░░░  ░░  75%
+ MySQL / H2 Database        ████████████████░░░░  ░░  75%
+ Git & GitHub               ████████████████████  ██  90%
+ React / HTML / CSS         ████████████░░░░░░░░  ░░  60%
+ System Design              ████████████░░░░░░░░  ░░  60%
+ Microservices              ██████████░░░░░░░░░░  ░░  50%  ← learning
+```
+
+</td></tr>
+</table>
+
 </div>
 
-<br/>
+---
 
-<!-- Contribution Snake -->
+## `$ tail -f activity.log`
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/karanaawla1/karanaawla1/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake" />
-</div>
 
-> ⚙️ **Snake animation setup:** Add a GitHub Actions workflow to your profile repo to auto-generate this. [See how →](https://github.com/Platane/snk)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanaawla1&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=0a3d62&hide_border=true&custom_title=Karan's%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+
+</div>
 
 ---
 
