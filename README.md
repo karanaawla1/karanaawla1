@@ -5,7 +5,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:0d2137,60:0a3d62,100:00d9ff&height=220&section=header&text=Karan%20Aawla&fontSize=58&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Cloud-Native%20%7C%20Open%20To%20Work%20%F0%9F%9A%80&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn&stroke=00d9ff&strokeWidth=2" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:0d2137,60:0a3d62,100:00d9ff&height=220&section=header&text=Karan%20Aawla&fontSize=58&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Cloud-Native%20%7C%20Open%20To%20Work%20%F0%9F%9A%80&descSize=16&descAlignY=58&descAlign=50&animation=twinkling&stroke=00d9ff&strokeWidth=2" width="100%" alt="Header"/>
 
 </div>
 
@@ -29,7 +29,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Building+production-grade+backends+with+Java+%26+Spring+Boot+%E2%98%95;JWT+Auth+%C2%B7+RBAC+%C2%B7+Docker+%C2%B7+REST+APIs+%C2%B7+Cloud+Deployments+%F0%9F%9B%B8;Learning+fast.+Shipping+real+things.+Ready+to+contribute.+%F0%9F%92%AA" alt="Typing SVG" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ whoami`
 
@@ -65,7 +65,7 @@ I'm looking for a team where I can grow fast, ship meaningful things, and go fro
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ cat tech-stack.yml`
 
@@ -105,7 +105,7 @@ I'm looking for a team where I can grow fast, ship meaningful things, and go fro
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ ls projects/`
 
@@ -182,17 +182,7 @@ A **production-ready helpdesk ticketing REST API** with enterprise-grade securit
 </tr>
 </table>
 
----
-
-## `$ sudo trophy --display`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karanaawla1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ cat skills --proficiency`
 
@@ -219,7 +209,7 @@ A **production-ready helpdesk ticketing REST API** with enterprise-grade securit
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ tail -f activity.log`
 
@@ -229,7 +219,7 @@ A **production-ready helpdesk ticketing REST API** with enterprise-grade securit
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ cat certifications.txt`
 
@@ -269,7 +259,7 @@ A **production-ready helpdesk ticketing REST API** with enterprise-grade securit
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ cat journey.log`
 
@@ -288,7 +278,7 @@ A **production-ready helpdesk ticketing REST API** with enterprise-grade securit
              Writing clean code. Shipping real things. Growing fast. 🚀
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ ps aux | grep learning`
 
@@ -303,7 +293,7 @@ A **production-ready helpdesk ticketing REST API** with enterprise-grade securit
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `$ ping karanaawla`
 
@@ -329,7 +319,7 @@ A **production-ready helpdesk ticketing REST API** with enterprise-grade securit
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- FOOTER -->
 <div align="center">
